@@ -100,7 +100,7 @@ fun HomeContent(
 
                 // Deskripsi Singkat
                 Text(
-                    text = "Nikmati pengalaman kuliner terbaik hanya di $profileName",
+                    text = "Merasa Resto menyajikan hidangan khas Nusantara dengan cita rasa autentik dan suasana yang nyaman.",
                     fontSize = 16.sp,
                     color = if (isDarkMode) Color.White.copy(alpha = 0.7f) else Color.Black.copy(alpha = 0.6f),
                     textAlign = TextAlign.Center,
